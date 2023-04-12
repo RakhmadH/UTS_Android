@@ -1,0 +1,35 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="fragment.KolikFragment">
+    <!-- TODO: Update blank fragment layout -->
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        android:gravity="center"
+        android:text="@string/deskripsi_kolik"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:id="@+id/deskripsi_kolik"/>
+
+    <FrameLayout
+        android:id="@+id/google_map_kolik"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/deskripsi_kolik" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="@string/kembali"
+        android:id="@+id/button_kembali_kolik"/>
+
+
+
+</RelativeLayout>

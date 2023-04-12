@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pilihan">What do you need right now ?</string>
+    <string name="button_gas">Gas</string>
+    <string name="button_beras">Rice</string>
+    <string name="button_kolik">Fish Pond</string>
+    <string name="deskripsi_beras">Rice Seller Location</string>
+    <string name="deskripsi_gas">Gas Seller Location</string>
+    <string name="deskripsi_kolik">Fish Pond Seller Location</string>
+    <string name="kembali">Back</string>
+    <string name="bahasa">Language</string>
+    <string name="main_fragment">Main Fragment</string>
+    <string name="app_name">"Android Mid Term "</string>
+    <string name="root_fragment">Return to Root Fragment </string>
+    <string name="gas_fragment">Moved to Gas Fragment</string>
+    <string name="beras_fragment">Moved to Rice Fragment </string>
+    <string name="kolik_fragment"> Moved to Fish Pond Fragment </string>
+</resources>

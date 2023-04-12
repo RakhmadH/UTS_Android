@@ -1,0 +1,22 @@
+<resources>
+    <string name="main_fragment">Main Fragment</string>
+    <string name="pilihan">Saat ini anda butuh apa ?</string>
+    <string name="button_gas">Gas</string>
+    <string name="button_beras">Beras</string>
+    <string name="button_kolik">Kolam Ikan</string>
+    <string name="deskripsi_beras">Lokasi Penjual Beras </string>
+    <string name="deskripsi_gas">Lokasi Penjual Gas </string>
+    <string name="deskripsi_kolik">Lokasi Penjual Kolam Ikan </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="kembali">Kembali</string>
+    <string name="appwidget_text" translatable="false">EXAMPLE</string>
+    <string name="add_widget" translatable="false">Add widget</string>
+    <string name="app_widget_description" translatable="false">This is an app widget description</string>
+    <string name="bahasa">Bahasa</string>
+    <string name="app_name">Ujian Tengah Semester Android</string>
+    <string name="root_fragment">Kembali ke Fragment Root </string>
+    <string name="gas_fragment">Pindah ke Fragment Gas</string>
+    <string name="beras_fragment">Pindah ke Fragment Beras </string>
+    <string name="kolik_fragment"> Pindah ke Fragment Kolik </string>
+</resources>
